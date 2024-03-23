@@ -10,7 +10,7 @@ This paper proposes a novel Deformable Neighborhood Attention Transformer (DNA-T
 
 
 <p align="center">
-<img src=".\pic\Model.png" height = "500" alt="" align=center />
+<img src=".\pic\Model.png"  alt="" align=center />
 <br><br>
 <b>Figure 1.</b> Overall architecture of DNA-T.
 </p>

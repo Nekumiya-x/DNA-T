@@ -20,4 +20,4 @@ This paper proposes a novel Deformable Neighborhood Attention Transformer (DNA-T
 
 
 ## Acknowledgement
-This work was supported in part by the National Natural Science Foundation of China (NSFC) under Grant 62102098, in part by the Science and Technology Planning Project of Guangzhou under Grant 202201010266, in part by the National Natural Science Foundation of China (NSFC) under Grant 62302413, as well as Regional Joint Fund Project of Basic and Applied Basic Research Foundation of Guangdong Province under Grant 2022A1515140096.
+This work was supported in part by the National Natural Science Foundation of China (NSFC) under Grant 62102098, in part by the Science and Technology Planning Project of Guangzhou under Grant 202201010266, in part by the National Natural Science Foundation of China (NSFC) under Grant 62302413, in part by the Natural Science Foundation of Guangdong Province under Grant 2024A1515010186, as well as Regional Joint Fund Project of Basic and Applied Basic Research Foundation of Guangdong Province under Grant 2022A1515140096.

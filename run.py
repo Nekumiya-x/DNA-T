@@ -27,7 +27,6 @@ def main():
     parser.add_argument('--data', type=str, required=True, default='MIMIC', help='dataset type')
     parser.add_argument('--root_path', type=str, default='./data', help='root path of the data file')
     parser.add_argument('--checkpoints', type=str, default='./checkpoints/', help='location of model checkpoints')
-    # classify task
     parser.add_argument('--max_len', type=int, default=140, help='input sequence length')
     # model define
     parser.add_argument('--enc_in', type=int, default=20, help='encoder input size')
